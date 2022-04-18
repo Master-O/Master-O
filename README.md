@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Master-O
 - 👀 I’m interested in ... Creating my Own Video Game.
-- 🌱 I’m currently learning ... C+/C# & Japanese.
-- 💞️ I’m looking to collaborate on ... Coding for my game.
+- 🌱 I’m currently learning ... Python & Japanese.
+- 💞️ I’m looking to collaborate on ... Coding & Programming.
 - 📫 How to reach me ... Would be Best to send a DM.
 
 <!---
