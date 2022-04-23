@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Creating my Own Video Game.
 - 🌱 I’m currently learning ... Python & Japanese.
 - 💞️ I’m looking to collaborate on ... Coding & Programming.
-- 📫 How to reach me ... Would be Best to send a DM.
+- 📫 How to reach me ... Would be Best to send a email to omarblackburn1996@gmail.com
 
 <!---
 Master-O/Master-O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
