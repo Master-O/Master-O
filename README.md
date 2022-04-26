@@ -1,4 +1,4 @@
-  👋 Hello, I’m @Master-O
+  👋 Hello, I’m Omar!
   
   📍 Current location: LA, Sherman Oaks.
   
@@ -7,6 +7,9 @@
   💞️ I’m looking to collaborate on Coding & Programming.
   
   💌   How to reach me: omarblackburn1996@gmail.com
+  
+  Languages & Tools I Work With:
+  HTML & CSS.
   
 
 <!---
