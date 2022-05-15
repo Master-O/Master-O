@@ -4,12 +4,12 @@
   
   🌱 I’m currently learning Python.
   
-  💞️ I’m looking to collaborate on Coding & Programming.
+  🤝 I’m looking to Collaborate on Coding & Programming.
   
   💌   How to reach me: omarblackburn1996@gmail.com
   
   Languages & Tools I Work With:
-  HTML & CSS.
+  HTML, CSS, & Python.
   
 
 <!---
